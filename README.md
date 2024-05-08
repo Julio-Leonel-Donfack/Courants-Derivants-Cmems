@@ -2,9 +2,6 @@
 
 This repo contains 
 my Study notebooks on the agestrophic components of currents, for my internship in oceanography.
-## Working through binder
-
-Notebooks are available through binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecosme38/Fluid-Mechanics-Intro/master)
 
 ## Working in your own jupyterlab
 
