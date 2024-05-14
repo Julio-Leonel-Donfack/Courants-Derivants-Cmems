@@ -15,12 +15,7 @@ We gather all the drifters present in our datasets and provide their positions w
 We interpolate the current data from CMEMS to that of the drifters using linear interpolation method.
 - [Inertial oscillation](4-oscillation-inertielle-des-dérives.ipynb)
 After interpolating CMEMS data onto the drifters, we notice that the period of oscillations is much shorter. The question arises: could this be due to inertial waves? From the frequencies derived from these waves, we conclude that it is indeed the inertial wave because the frequencies obtained are on the order of 10^-6, close to zero, which are of the same magnitude as those corresponding to Coriolis forces and thus potentially inertial forces.
-- [Calculating Duacs currents near the equator using SSH (Sea Surface Height) data.](55-working-with-2D-ocean_A.ipynb)
-Here, we propose calculating these currents using linear approximation to correct the Coriolis parameter near the equator.
-- [Calculating Duacs currents near the equator using SSH (Sea Surface Height) data.](55-working-with-2D-ocean_B.ipynb)
-Here, we propose calculating these currents using beta approximation to correct the Coriolis parameter near the equator.
-
-
+ 
 
 
 
