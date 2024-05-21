@@ -1,4 +1,4 @@
-# Courants-Deriveurs-Cmems
+# Courants-Derivants-Cmems
 
 This repo contains 
 my Study notebooks on the agestrophic components of currents, for my internship in oceanography.
@@ -7,7 +7,7 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 
 Five notebooks are available at present to illustrate:
 
-- [Dérivants et courants](1-dériveurs-courants-visualisations.ipynb)  
+- [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
 - [Dérivants et positions](2-drifters-positions.ipynb) 
 We gather all the drifters present in our datasets and provide their positions within our study area for a selected collection date.
