@@ -9,7 +9,7 @@ Five notebooks are available at present to illustrate:
 
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
-- [Deriveurs and positions](2-drifters-positions.ipynb) 
+- [Dérivantes and positions](2-drifters-positions.ipynb) 
 We gather all the drifters present in our datasets and provide their positions within our study area for a selected collection date.
 - [Interpolation cmems to drifters data](3-interpolation-cmems-drifters.ipynb)
 We interpolate the current data from CMEMS to that of the drifters using linear interpolation method.
