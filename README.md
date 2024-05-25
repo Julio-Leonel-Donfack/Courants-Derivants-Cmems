@@ -5,7 +5,7 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 
 ## Working in your own jupyterlab
 
-Five notebooks are available at present to illustrate:
+Six notebooks are available at present to illustrate:
 
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
