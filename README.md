@@ -10,9 +10,9 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 - In the CMEMS_notebooks folder, we have 5 notebooks.
         - Notebook 3 deals with the interpolation of CMEMS data on the spatial and temporal grid of drifting buoys using the linear interpolation method.
         - Notebook 5 deals with the inertial oscillation of drifter velocities.
-        - Notebook 7-1 deals with the enhancement of CMEMS currents by adding the Ekman component calculated from NOAA wind data from the product: CoastWatch Caribb-NOAA AOML.
-        -  Then, notebook 7-11 uses Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
-        - Finally, in notebook 7-111, we repeat the same process as in notebook 7-1, this time using CMEMS wind data.
+        - Notebook 7-1 uses Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
+        - Notebook 7-11 deals with the enhancement of CMEMS currents by adding the Ekman component calculated from NOAA wind data from the product: CoastWatch Caribb-NOAA AOML.
+        - Then, in notebook 7-11, we repeat the same process as in notebook 7-1, this time using CMEMS wind data. 
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
 - [Dérivants et positions](2-drifters-positions.ipynb) 
