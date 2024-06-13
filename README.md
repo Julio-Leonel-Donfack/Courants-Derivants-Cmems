@@ -16,6 +16,8 @@ At present, there are 4 notebooks and 3 folders available to illustrate:
     - **Notebook 7-1**: Utilizes Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
     - **Notebook 7-2**: Enhances CMEMS currents by adding the Ekman component calculated from NOAA wind data from the product: CoastWatch Caribb-NOAA AOML.
     - **Notebook 7-3**: Repeats the same process as in notebook 7-1, this time using CMEMS wind data.
+
+- **NOAA_notebooks Folder**: Contains 3 notebooks. In this folder, I revisit the topics covered in notebooks 3, 5, and 7 using geostrophic current and wind data provided entirely by NOAA.
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
 - [Dérivants et positions](2-drifters-positions.ipynb) 
