@@ -5,15 +5,17 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 
 ## Working in your own jupyterlab
 
-4 notebooks and 3 folders are available at present to illustrate:
-- Annexe is a folder containing notebooks dealing with our theme but much more improved in the folders CMEMS_notebooks and NOAA_notebooks.
-- In the CMEMS_notebooks folder, we have 5 notebooks.
-  
-        - Notebook 3 deals with the interpolation of CMEMS data on the spatial and temporal grid of drifting buoys using the linear interpolation method.
-        - Notebook 5 deals with the inertial oscillation of drifter velocities.
-        - Notebook 7-1 uses Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
-        - Notebook 7-11 deals with the enhancement of CMEMS currents by adding the Ekman component calculated from NOAA wind data from the product: CoastWatch Caribb-NOAA AOML.
-        - Finally, in notebook 7-111, we repeat the same process as in notebook 7-1, this time using CMEMS wind data. 
+At present, there are 4 notebooks and 3 folders available to illustrate:
+
+- **Annexe Folder**: Contains notebooks pertaining to our theme, but with more advanced versions available in the folders CMEMS_notebooks and NOAA_notebooks.
+
+- **CMEMS_notebooks Folder**: Contains 5 notebooks:
+
+    - **Notebook 3**: Interpolates CMEMS data on the spatial and temporal grid of drifting buoys using the linear interpolation method.
+    - **Notebook 5**: Deals with the inertial oscillation of drifter velocities.
+    - **Notebook 7-1**: Utilizes Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
+    - **Notebook 7-11**: Enhances CMEMS currents by adding the Ekman component calculated from NOAA wind data from the product: CoastWatch Caribb-NOAA AOML.
+    - **Notebook 7-111**: Repeats the same process as in notebook 7-1, this time using CMEMS wind data.
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
 - [Dérivants et positions](2-drifters-positions.ipynb) 
