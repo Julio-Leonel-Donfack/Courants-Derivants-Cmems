@@ -7,7 +7,7 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 
 4 notebooks and 3 folders are available at present to illustrate:
 - Annexe is a folder containing notebooks dealing with our theme but much more improved in the folders CMEMS_notebooks and NOAA_notebooks.
-- In the CMEMS_notebooks folder, we have 5 notebooks.
+- In the CMEMS_notebooks folder, we have 5 notebooks.\\
         - Notebook 3 deals with the interpolation of CMEMS data on the spatial and temporal grid of drifting buoys using the linear interpolation method.
         - Notebook 5 deals with the inertial oscillation of drifter velocities.
         - Notebook 7-1 uses Drifter and CMEMS current data to estimate the depth of the Ekman layer and the drag coefficient noted as h_e and r_e respectively.
