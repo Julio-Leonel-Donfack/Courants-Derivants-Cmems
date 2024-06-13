@@ -24,6 +24,8 @@ We visualize the current variables present in our drifter data. These variables 
 We gather all the drifters present in our datasets and provide their positions within our study area for a selected collection date.
 - [Inertial oscillation](4-oscillation-inertielle-des-dérives.ipynb)
 After interpolating CMEMS data onto the drifters, we notice that the period of oscillations is much shorter. The question arises: could this be due to inertial waves? From the frequencies derived from these waves, we conclude that it is indeed the inertial wave because the frequencies obtained are on the order of 10^-5, which are of the same magnitude as those corresponding to Coriolis forces and thus potentially inertial forces.
+- [Tracjectoire sur les profils de SSH et SST](2-drifters-positions.ipynb) 
+In this notebook, we visualize the trajectory of our drifter on the profiles of SSH and SST.
 - [Méthodes d'évaluation des courants de surface](Méthodes-de-calcul-des-courants.ipynb)
 This notebook aims to detail the methods of calculating ocean currents as presented in the articles by Lagerloef (1999) and Picaut (1990). 
 
