@@ -8,7 +8,6 @@ my Study notebooks on the agestrophic components of currents, for my internship 
 At present, there are 7 notebooks and 1 folder available to illustrate:
 
 - **Annexe Folder**: Contains notebooks pertaining to our theme.
-- 
 - [Drifters and currents](1-dériveurs-courants-visualisations.ipynb)  
 We visualize the current variables present in our drifter data. These variables are Eastward velocity (ve), Northward velocity (vn), and we also include the visualization of sea surface temperature (SST) present in our data.
 - [Drifters and positions](2-drifters-positions.ipynb) 
